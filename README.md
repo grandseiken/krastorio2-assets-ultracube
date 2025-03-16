@@ -1,5 +1,3 @@
-# Krastorio 2 - Assets
+# Krastorio 2 Assets (Ultracube fork)
 
-This is the assets mod for [Krastorio 2](https://github.com/raiguard/krastorio-2). The graphics and sounds are kept in a separate mod so the base mod can be as light as possible, allowing for hotfixes to be feasible.
-
-Please use the base repository linked above for all discussion.
+This is an [Ultracube](https://github.com/grandseiken/factorio-ultracube)-specific fork of the [Krastorio2Assets](https://github.com/raiguard/Krastorio2Assets) repository, frozen at version 2.0.0 to avoid breakages due to updates to the original assets mod.

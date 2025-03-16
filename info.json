@@ -1,15 +1,11 @@
 {
-  "name": "Krastorio2Assets",
+  "name": "krastorio2-assets-ultracube",
   "version": "2.0.0",
-  "title": "Krastorio 2 Assets",
-  "description": "Assets for Krastorio 2.",
-  "author": "Linver, Krastor, raiguard",
-  "contact": "https://github.com/raiguard/Krastorio2/issues",
-  "homepage": "https://github.com/raiguard/Krastorio2Assets",
+  "title": "Krastorio 2 Assets (Ultracube)",
+  "description": "Assets for Krastorio 2 (Ultracube fork).",
+  "author": "Linver, Krastor, raiguard, grandseiken",
+  "contact": "s+factorio@stu.scot",
+  "homepage": "https://discord.gg/GAvypzwyWU",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0"],
-  "package": {
-    "git_publish_branch": "main",
-    "ignore": ["KRASTORIO_SOURCE.zip"]
-  }
+  "dependencies": ["base >= 2.0.0"]
 }

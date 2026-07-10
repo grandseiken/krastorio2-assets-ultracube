@@ -1,11 +1,11 @@
 {
   "name": "krastorio2-assets-ultracube",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "title": "Krastorio 2 Assets (Ultracube)",
   "description": "Assets for Krastorio 2 (Ultracube fork).",
   "author": "Linver, Krastor, raiguard, grandseiken",
   "contact": "s+factorio@stu.scot",
   "homepage": "https://discord.gg/GAvypzwyWU",
-  "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0"]
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.0"]
 }
